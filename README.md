@@ -28,7 +28,7 @@ C if [60-70)
 
 D if [0 to 60)
 
-The square and round brackets denote closed and open intervals. A closed interval includes the number, and open interval excludes it. So 79.99999 gets grade C , but 80 gets grade B.  
+The square and round brackets denote closed and open intervals. A closed interval includes the number, and open interval excludes it. So 69.99999 gets grade C , but 70 gets grade B.  
 
 
 For more about intervals : https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjO2J7n1fb9AhVeUGwGHVNBC1wQmhN6BAhJEAI&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FInterval_(mathematics)&usg=AOvVaw3kXPUzzHXW-zPapUqgwJuz
